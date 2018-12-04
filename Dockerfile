@@ -2,7 +2,7 @@ FROM rakshans1/base
 
 LABEL MAINTAINER="Rakshan Shetty <shetty.raxx555@gmail.com>"
 
-ENV NODEJS_VERSION=8.9.1 \
+ENV NODEJS_VERSION=10.14.1 \
     PATH=$PATH:/opt/node/bin
 
 WORKDIR "/opt/node"
