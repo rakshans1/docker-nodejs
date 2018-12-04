@@ -5,7 +5,7 @@
 
 
 ![rakshans1/nodejs](/icon.png?raw=true)
-# nodejs 8.9.1
+# nodejs 10.14.1
 ### based on [Ubuntu 16.04 (Xenial Xerus)](https://github.com/rakshans1/docker-base)
 ----
 ### Pull from Docker Hub
